@@ -51,11 +51,13 @@ Por último, tenemos la función lista_NFTs. Esta función es útil para revisar
 ### Contrato 1: Creación de token
 
 Hash de transacción
+
 0xf42a9643d4fe85bbaeb77c27be14914d1df4d4d405651e8ea69bc061f752f371
 
 <img width="1430" alt="Captura de pantalla 2024-03-27 a la(s) 19 27 03" src="https://github.com/Manriboy/masterIEBS/assets/156150473/7a6083e8-fa3b-4f8c-b8e7-d002fc499ad5">
 
 Address de contrato
+
 0x83168186691B8294B5169D70A0f56614044bbc16
 
 ### Verificación contrato 1
@@ -67,11 +69,13 @@ Address de contrato
 ### Contrato 2: Creación de NFT
 
 Hash de transacción
+
 0xdaa652b8b8506f773317b6f46da4bf63e2aba4f6c26c99e98821887de45affbb
 
 <img width="1440" alt="Captura de pantalla 2024-03-27 a la(s) 19 34 32" src="https://github.com/Manriboy/masterIEBS/assets/156150473/9e53abcd-93ed-4a18-b48f-e699fe75e1da">
 
 Address de contrato
+
 0xAe0af213227f1867FaDD6713e0420E91eeE5264F
 
 ### Verificación contrato 2
@@ -83,11 +87,13 @@ Address de contrato
 ### Contrato 3: Creación de Marketplace
 
 Hash de transacción
+
 0xcb7b4baf99347648133fc3fcf567f8d6dbf12b7e8bdf43df57878d6ef1a21b8c
 
 <img width="1440" alt="Captura de pantalla 2024-03-27 a la(s) 19 38 33" src="https://github.com/Manriboy/masterIEBS/assets/156150473/741830d1-3baf-4f5a-89f3-7c7d95cb2c15">
 
 Address de contrato
+
 0x0b3123d85427C319B0efc2176d62aEcAf4f3476c
 
 ## Preguntas y respuestas
